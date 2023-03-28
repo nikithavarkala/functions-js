@@ -1,0 +1,21 @@
+span{
+    text-decoration: underline;
+    font-size: large;
+    color: crimson;
+}
+p{
+    color:cadetblue;
+    font-family: cursive;
+    font-weight: bold;
+}
+h2{
+    text-decoration: underline;
+    color: crimson;
+    text-shadow: 2px 2px 2px rgb(211, 166, 166);
+}
+h4{
+    color:cadetblue;
+}
+pre{
+    font-size: large;
+}
